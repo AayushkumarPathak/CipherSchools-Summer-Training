@@ -1,0 +1,36 @@
+.center-para{
+    text-align: center;
+    color: red;
+
+    text-decoration: double;
+
+}
+p{
+    text-align: center;
+}
+.cont2{
+    background-color: tomato;
+    color: black;
+    margin:10px;
+    padding:10px;
+    display: grid;
+    text-align: center;
+    border-radius: 10px;
+    border-color: burlywood;
+
+}
+.links{
+    display: flex;
+    justify-content: flex-start;
+    margin: 10px;
+    padding-left: 10px;
+    background-color: aquamarine;
+    font-size: 20px;
+}
+.links a{
+    margin:10px;
+    padding: 5px;
+}
+a[target]{
+background-color: tomato;
+}
